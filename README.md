@@ -1,1 +1,1 @@
-Calculator Project using Vue Framework. Tutorial used to build the project is from freeCodeCamp.org
+Calculator project using the Vue Framework. Tutorial used for building the application is from freeCodeCamp.org
